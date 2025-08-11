@@ -18,7 +18,7 @@ https://github.com/neovim/neovim/blob/master/BUILD.md
 You can Double check your dependencies for NeoVim build here:
 https://github.com/neovim/neovim/blob/master/BUILD.md#build-prerequisites
 
-Backup all your files in your .config/ to safe place, Copy Paste all the files from this repo in to the .config/ (check the .config/i3/config and make changes if needed)
+Backup all your files in your .config/ to a safe place, Copy Paste all the files from this repo in to the .config/ (check the .config/i3/config and make changes if needed)
 
 Run nvim command and let it update, you should have nvim up and running with LazyVim distro with a nice Dracula inspired theme.
 
