@@ -1,0 +1,13 @@
+[font]
+size = 10.0
+
+[font.normal]
+family = "JetbrainsMono Nerd Font"
+
+[window]
+opacity = 1.0
+
+[window.padding]
+x = 10
+y = 4
+
