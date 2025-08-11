@@ -16,7 +16,7 @@ Download the Dracula theme and follow the instructions on the site:
 https://draculatheme.com/gtk
  Use lxappearance , you should see the Dracula theme, the new Font and icons theme.
 
-Neovim or nvim for short needs to be build from Source because the package in apt is to old(otherwise my nvim config will not work), follow the official instructions, you should have all the dependencies ready but always good to double check.
+Neovim or nvim for short needs to be build from Source because the package in apt is to old (otherwise my nvim config will not work), follow the official instructions, you should have all the dependencies ready but always good to double check.
 Follow this instructions:
 https://github.com/neovim/neovim/blob/master/BUILD.md
 You can Double check your dependencies for NeoVim build here:
@@ -26,4 +26,4 @@ Backup all your files in your .config/ to a safe place, Copy Paste all the files
 
 Run nvim command and let it update, you should have nvim up and running with LazyVim distro with a nice Dracula inspired theme.
 
-IMPORTANT: comes with no guarantees or warranties (this means things may not work as expected, or at all) :^) If somethings breaks can always copy paste your backup .config/ and all should be fine. With that said this is a very vanilla set up just with some minor changes, so should work just fine and not give any problems.
+IMPORTANT: comes with no guarantees or warranties (this means things may not work as expected, or at all) :^) If somethings breaks can always copy paste your backup .config/ and all should be fine. With that said this is a very vanilla set up, with just some minor changes, so should work just fine and not give any problems.
