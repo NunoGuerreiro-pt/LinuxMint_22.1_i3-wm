@@ -26,4 +26,4 @@ Backup all your files in your .config/ to a safe place, Copy Paste all the files
 
 Run nvim command and let it update, you should have nvim up and running with LazyVim distro with a nice Dracula inspired theme.
 
-IMPORTANT: comes with no guarantees or warranties (this means things may not work as expected, or at all) :^) If somethings breaks can always copy paste your backup .config/ and all should be fine. With that said this is a very vanilla set up, with just some minor changes, so should work just fine and not give any problems.
+IMPORTANT: comes with no guarantees or warranties (this means things may not work as expected, or at all) :^) If somethings breaks, you can always copy paste your backup .config/ and all should be fine. With that said this is a very vanilla set up, with just some minor changes, so should work just fine and not give any problems.
