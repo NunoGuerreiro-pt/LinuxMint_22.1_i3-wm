@@ -7,7 +7,7 @@ configuration {
     modes: "combi,window,run,drun";
 
     // Font configuration:
-    font: "Hasklug Nerd Font Mono Med 10";
+    font: "JetbrainsMono Nerd Font 10";
 
     // Icon theme:
     icon-theme: "Win10Sur";
