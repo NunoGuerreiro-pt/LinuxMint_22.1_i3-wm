@@ -20,6 +20,6 @@ https://github.com/neovim/neovim/blob/master/BUILD.md#build-prerequisites
 
 Backup all your files in your .config/ to safe place, Copy Paste all the files from this repo in to the .config/ (check the .config/i3/config and make changes if needed)
 
-Run nvim command let it update, you should have nvim up and running with LazyVim distro with a nice Dracula inspired theme.
+Run nvim command and let it update, you should have nvim up and running with LazyVim distro with a nice Dracula inspired theme.
 
 IMPORTANT: comes with no guarantees or warranties (this means things may not work as expected, or at all) :^) If somethings breaks can always copy paste your backup .config/ and all should be fine. With that said this is a very vanilla set up just with some minor changes, so should work just fine and not give any problems.
