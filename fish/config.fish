@@ -1,5 +1,5 @@
 ## Simple Fish Config ## 
-## Author: Nuno Guerreiro ##
+## Author: <YOUR NAME HERE> ##
 
 # Nothing to do if not inside an interactive shell.
 if not status is-interactive
