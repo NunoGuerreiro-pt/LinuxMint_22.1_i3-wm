@@ -1,6 +1,6 @@
 #  Simple Vanilla LinuxMint_22.1_i3-wm with Dracula-Theme + some extra Godies #
 
-## The idea is just to give noobs like myself a good clean Vanilla starting point on top i3-wm + some extra godies, and easy configs around the Dracula theme for severall other tools, for no need to long comprehensive edits of files.(If you dont want the neovim lazyvim config, you can just copy paste all the other config files and everything should work fine as long you already have the tools installed).
+## The idea is just to give noobs like myself a good clean Vanilla starting point on top i3-wm + some extra godies, and easy configs around the Dracula theme for severall other tools, for no need to long comprehensive edits of files.(If you dont want the neovim lazyvim config, you can just copy paste all the other config files and everything should work fine as long you already have the packages installed).
 ##
 Simple Vanilla .config/ files with Dracula themes for: i3-wm, Fish shell, Alacritty, btop, rofi, lazygit, and neovim to install along side Linux Mint 22.1 xfce4.(Did not test with Cinnamon Desktop but should also work with no problems)
 
