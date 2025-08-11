@@ -8,7 +8,7 @@ Some dependencies:
 
 sudo apt install alacritty btop fish lua5.4 luarocks i3 dmenu rofi lxappearance eza git lazygit tldr fzf feh ripgrep fd-find ninja-build gettext cmake curl build-essential make gcc fonts-noto-color-emoji keepassxc papirus-icon-theme wget curl  
 
-Get the JetbrainsMono Nerd Fonts (if you want some other font you need to change the dot files):
+Get the JetbrainsMono Nerd Fonts (if you want some other font you need to edit the dot files):
 https://www.nerdfonts.com/font-downloads
  Unzip and copy paste your new Font in to:  /usr/share/fonts ( sudo mv JetBrainsMono /usr/share/fonts )
 
